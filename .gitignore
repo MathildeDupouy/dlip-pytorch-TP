@@ -1,5 +1,4 @@
-/data/raw/
-/data/external/
+/data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
